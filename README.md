@@ -1,12 +1,17 @@
 # Bank Customer Churn Prediction Model
 
-Overview /n
+Overview
+
 This project aims to predict customer churn for a bank using machine learning techniques, with a focus on lazy predict for model selection and evaluation. Customer churn, also known as customer attrition, refers to the phenomenon where customers cease their relationship with a company or service provider.
 
-Objective /n
+
+Objective
+
 The primary objective of this project is to develop a predictive model that can identify customers who are likely to churn. By identifying these customers early on, the bank can take proactive measures to retain them, such as offering personalized incentives or improved customer service.
 
-Methodology /n
+
+Methodology
+
 Data Collection: Gather relevant data from the bank's database, including customer demographics, transaction history, and any other relevant features that might influence churn.
 
 Data Preprocessing: Clean the data by handling missing values, encoding categorical variables, and scaling numerical features as necessary. This step ensures that the data is suitable for modeling.
